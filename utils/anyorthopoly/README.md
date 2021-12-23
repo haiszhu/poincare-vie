@@ -1,0 +1,3 @@
+## orthogonal polynomial on irregular cell
+
+discrete orthogonalization process... 
